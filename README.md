@@ -28,7 +28,7 @@
 ## Technology Used
 
 - It is a Java Application.
-- Libraries Used: `JAVA SWING`,`MYSQLJDBC`,`RS2XML`
+- Libraries Used: `JAVA SWING`,`MYSQL`,`JDBC`,`RS2XML`
 
 ## credits
 
